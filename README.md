@@ -11,3 +11,9 @@ See instructions after creating the repo
 .com/santhinisjr/django-deployment-example.git
 8. git push -u origin master
 9. type username and password to deploy!
+for making any new changes --- >
+ -- > make change in the file
+ -- > In terminal cd to directory
+ -- > git add .
+ -- > git commit .
+ -- > git push -u origin master
